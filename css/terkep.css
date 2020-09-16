@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  height: 77vh;
+  width: 100vw;
+  bottom: 0;
+}
+
+#helynev{
+  border-bottom: 0px;
+}
+
+.bar{
+  background-color: #2f3b35;
+}
+
+.icon{
+  font-weight: bold;
+}
+
+.content{
+background-color: #f8d39f;
+}
+
+.title{
+  font-size: 2em;
+  color: white;
+}

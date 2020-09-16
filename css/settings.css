@@ -1,0 +1,33 @@
+#nevcedula{
+  border-bottom: 0px;
+}
+
+.bar{
+  background-color: #2f3b35;
+}
+
+.icon{
+  font-weight: bold;
+}
+
+.content{
+background-color: #f8d39f;
+}
+
+.title{
+  font-size: 2em;
+  color: white;
+}
+.table-view{
+  background-color: #f8d39f;
+  border: 0px;
+}
+.table-view-cell{
+  color: #2f3b35;
+  font-size: 1.3em;
+  font-weight: 550;
+  border: 0px;
+}
+.navigate-right::after{
+  color: #2f3b35;
+}

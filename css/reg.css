@@ -1,0 +1,46 @@
+#logo{
+  width: 75%;
+  height: auto;
+  display: block;
+  margin: auto;
+  margin-bottom: 7%;
+}
+#username, #password, #email, #confirm_password{
+  height: 8%;
+  font-size: 1.5em;
+  margin-bottom: 8%;
+  border:0px;
+  box-shadow: 3px 3px 2px 0px rgba(47,59,53,0.5);
+  border-radius: 0px;
+  padding: 2px;
+}
+#signin, #signup{
+  display: block;
+  font-size: 1.5em;
+  margin: auto;
+  margin-bottom: 5%;
+  width: 90%;
+  border-radius: 15px;
+  font-weight: 500;
+}
+#forgottenpassword{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+form{
+  width: 95%;
+  margin: auto;
+  background-color: #f8d39f;
+  padding: 40px;
+  border-radius: 20px;
+  min-height: 100%;
+}
+.content{
+  background-color: #2f3b35;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+span{
+  font-weight: bold;
+}
